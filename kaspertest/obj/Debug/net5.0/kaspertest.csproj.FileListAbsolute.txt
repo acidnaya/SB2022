@@ -1,0 +1,15 @@
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/bin/Debug/net5.0/kaspertest.deps.json
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/bin/Debug/net5.0/kaspertest.runtimeconfig.json
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/bin/Debug/net5.0/kaspertest.runtimeconfig.dev.json
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/bin/Debug/net5.0/kaspertest.dll
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/bin/Debug/net5.0/ref/kaspertest.dll
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/bin/Debug/net5.0/kaspertest.pdb
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.csproj.AssemblyReference.cache
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.AssemblyInfoInputs.cache
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.AssemblyInfo.cs
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.csproj.CoreCompileInputs.cache
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.dll
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/ref/kaspertest.dll
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.pdb
+/Users/morte/RiderProjects/Rubtsova_Maria/kaspertest/obj/Debug/net5.0/kaspertest.genruntimeconfig.cache
